@@ -1,0 +1,28 @@
+co/com/choucair/certification/utest/userinterface/CompleteDeviceInfoPage.java
+ co.com.choucair.certification.utest.userinterface.CompleteDeviceInfoPage
+co/com/choucair/certification/utest/userinterface/JoinTodayPage.java
+ co.com.choucair.certification.utest.userinterface.JoinTodayPage
+co/com/choucair/certification/utest/tasks/JoinToday.java
+ co.com.choucair.certification.utest.tasks.JoinToday
+co/com/choucair/certification/utest/tasks/OpenUp.java
+ co.com.choucair.certification.utest.tasks.OpenUp
+co/com/choucair/certification/utest/userinterface/OpenUpPage.java
+ co.com.choucair.certification.utest.userinterface.OpenUpPage
+co/com/choucair/certification/utest/userinterface/CompletePersonalInformationPage.java
+ co.com.choucair.certification.utest.userinterface.CompletePersonalInformationPage
+co/com/choucair/certification/utest/userinterface/CompleteLocationDataPage.java
+ co.com.choucair.certification.utest.userinterface.CompleteLocationDataPage
+co/com/choucair/certification/utest/questions/Message.java
+ co.com.choucair.certification.utest.questions.Message
+co/com/choucair/certification/utest/userinterface/SetPasswordAndAcceptTermsOfUsePage.java
+ co.com.choucair.certification.utest.userinterface.SetPasswordAndAcceptTermsOfUsePage
+co/com/choucair/certification/utest/tasks/SetPasswordAndAcceptTermsOfUse.java
+ co.com.choucair.certification.utest.tasks.SetPasswordAndAcceptTermsOfUse
+co/com/choucair/certification/utest/model/UTestLoginData.java
+ co.com.choucair.certification.utest.model.UTestLoginData
+co/com/choucair/certification/utest/tasks/CompleteDeviceInfo.java
+ co.com.choucair.certification.utest.tasks.CompleteDeviceInfo
+co/com/choucair/certification/utest/tasks/CompleteLocationData.java
+ co.com.choucair.certification.utest.tasks.CompleteLocationData
+co/com/choucair/certification/utest/tasks/CompletePersonalInformation.java
+ co.com.choucair.certification.utest.tasks.CompletePersonalInformation
